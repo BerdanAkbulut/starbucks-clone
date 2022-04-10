@@ -8,4 +8,4 @@
 ![sb4](https://user-images.githubusercontent.com/61564008/162611219-f05c0836-c3df-4ff8-aeab-f123f77834a0.png)
 ![sb5](https://user-images.githubusercontent.com/61564008/162611222-17fa50d9-66ec-469a-bd03-71918543697c.png)
 ![sb6](https://user-images.githubusercontent.com/61564008/162611224-e5455ad1-db82-4aa8-a72f-241433889149.png)
-![sb12](https://user-images.githubusercontent.com/61564008/162611229-1959d5de-4c80-4d82-8141-bee66a5376bf.png)
+
